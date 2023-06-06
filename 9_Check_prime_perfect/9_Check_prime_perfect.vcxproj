@@ -21,10 +21,9 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{39feaf2b-c770-43e6-8cba-b3ed39a8c9de}</ProjectGuid>
-    <RootNamespace>Reverselinkedlist</RootNamespace>
+    <ProjectGuid>{146a4a8c-c8f7-4e28-8750-ff3ef900b9d8}</ProjectGuid>
+    <RootNamespace>My9Checkprimeperfect</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>+10_Reverse_linked_list</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -140,7 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="10_Reverse_linked_list.cpp" />
+    <ClCompile Include="9_Check_prime_perfect.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

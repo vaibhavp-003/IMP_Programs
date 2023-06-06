@@ -24,7 +24,7 @@
     <ProjectGuid>{9d413320-0b31-4414-8733-4e7a1741b8a9}</ProjectGuid>
     <RootNamespace>Checkprimeperfect</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>9_Check_prime_perfect</ProjectName>
+    <ProjectName>+9_Check_prime_perfect</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

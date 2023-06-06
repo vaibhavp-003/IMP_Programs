@@ -21,10 +21,9 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{39feaf2b-c770-43e6-8cba-b3ed39a8c9de}</ProjectGuid>
-    <RootNamespace>Reverselinkedlist</RootNamespace>
+    <ProjectGuid>{3f421797-c543-4cb6-ae54-fc1c12147125}</ProjectGuid>
+    <RootNamespace>My10Reverselinkedlist</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>+10_Reverse_linked_list</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

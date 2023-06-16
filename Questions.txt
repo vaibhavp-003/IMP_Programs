@@ -1,0 +1,99 @@
+C++ Programs : 
+
+	1] Check if number / string is palindrome or not
+	2] Find occurence of character in a string
+	3] Find if given two strings are anagram or not
+	4] Calculate no of vowels and consonants in a string
+	5] Bubble sot, Insertion Sort, Merge sort, Radix sort
+	6] Reverse an array/ string
+	7] Swap two numbers without using third variable
+	8] Fibonacci series with and without recursion
+	9] Check if number is prime / perfect
+	10] Reverse linked list : singly, doubly
+	11] Binary search, Linear search
+	12] Find second largest no. in an array
+	13] Find second last element in the linked list
+	14] Find occurence of a character in a string
+	15] Find out missing no. from an array from 1-100
+	16] Delete repeated elements in an integer array
+	17] Find middle element of the linked list
+	18] Find third node of the linked lisr
+	19] Reverse a number
+	20] Find the factors of the number
+	21] Remove a given character from string
+	22] Print all permutations of a string
+	23] Find largest palindrome from the given string
+	24] In an array of 1-100, one or more elements are duplicate. Find duplicate.
+	25] Find largest and smallest element from the array
+	26] Find all pairs of the integers who's sum is equal to a number.
+	27] Find top 2 max. no from an array
+	28] Check whether no is powerof two or not
+	29] Check if no is armstrong or not
+	30] Check if no is binary or not
+
+	31] Binary Tree : Find depth of a binary tree
+	32] Print Inorder, Preorder, Postorder Traversal of tree
+	33] Print all leaf nodes of Binary tree
+	34] Check if tree is binary search tree or not
+	35] Check if tree is balanced or not
+	36] Depth First Search in Binary tree
+	
+	37]  Find largest of three integers
+	38] Print first non repeated characters from a string
+	39] Remove fduplicate nos from an array
+	40] Remove consecutive characters
+	41] Find maxumum occuring character
+	42] Merge two linked lists which are sorted
+	43] Remove Nth node from the end of the linked list
+	44] Find cycle's starting node in the linked list
+	45] Maximum subarray
+	46] Valid paranthesis
+	47] Longest common prefix string amongst array of strings
+	48] Occurence of each duplicate character in string
+	49] Longest substring without repeating characters
+	50] Delete without head node
+	51] Remove duplicates from unsorted linked list
+	52] Remove n'th node from the end of the linked list
+	53] Linked list in zig-zag fashion
+	54] Delete nodes, which have greater value at right side
+	55] Implement stach using queue
+	56] Reverse the queue
+	57] Reverse first k elements of Queue
+	58] Maximum depth of Binary Tree
+	59] Invert binary tree
+	60] Left view, Right view of Binary tree
+	61] Create mirror tree from given binary tree
+	62] Calculate the sum of all the nodes in the binary tree
+	63] Check if the both trees are same or not
+	64] Find height of binary tree
+	65] Search, Insert and Delete in BST
+	66] Minimum element and Maximum element in BST
+	67] Binary tree to BST
+	68] Preorder to Postorder
+	69] Convert Normal BST to Balanced BST
+	70] Merge two BST
+	
+	71] Design different patterns
+	72] Infix, Prefix, Postfix onversions
+	73] BFS, DFS
+	
+	74] Convert number to words
+	75] Factorial of no.
+	76] Printing patterns
+	77] Print repetitive characters
+	78] LCM and GCD of two nos
+	79] Find square root of no
+	80] Reverse order of words
+	81] Determining leap year
+	82] Transposing a matrix
+	83] Adding matrices
+	84] Multiplying matrices
+	85] Remove space in string
+	86] Check if two strings are rotations of deach othe
+
+	87]  What is namespace and its use ?
+	https://www.geeksforgeeks.org/namespace-in-c/
+	88] What is header file and its use ?
+	https://learn.microsoft.com/en-us/cpp/cpp/header-files-cpp?view=msvc-170
+
+
